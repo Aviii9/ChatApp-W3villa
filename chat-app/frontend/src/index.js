@@ -10,7 +10,7 @@ import { persistStore } from 'redux-persist';
 
 let persistor = persistStore(store);
 
-export const BASE_URL="chat-app-w3villa.vercel.app"
+export const BASE_URL="http://localhost:8080"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
