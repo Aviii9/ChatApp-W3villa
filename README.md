@@ -3,6 +3,9 @@
 This project is a simple Chat App built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
 
+https://github.com/Aviii9/ChatApp-W3villa/assets/90856769/abbaf95b-1f86-48e4-8dfc-2ee8d7741643
+
+
 ## Installation:
 
 1. Clone the repository:
